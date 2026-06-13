@@ -1,0 +1,19 @@
+<svg width="1200" height="420" viewBox="0 0 1200 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Thadopz profile banner</title>
+  <desc id="desc">A warm editorial-style banner inspired by Anthropic's visual language.</desc>
+  <rect width="1200" height="420" fill="#F8F3EA"/>
+  <path d="M0 46H1200" stroke="#1F1B16" stroke-width="2"/>
+  <path d="M0 374H1200" stroke="#1F1B16" stroke-width="2"/>
+  <path d="M74 0V420" stroke="#D8CEC1" stroke-width="1"/>
+  <path d="M1126 0V420" stroke="#D8CEC1" stroke-width="1"/>
+  <circle cx="999" cy="133" r="74" fill="#C15F3C" fill-opacity="0.16"/>
+  <circle cx="1036" cy="178" r="128" stroke="#C15F3C" stroke-width="2"/>
+  <path d="M888 302C925 251 971 229 1027 236C1083 243 1122 213 1144 146" stroke="#1F1B16" stroke-width="2" stroke-linecap="round"/>
+  <text x="96" y="118" fill="#1F1B16" font-family="Georgia, 'Times New Roman', serif" font-size="22" letter-spacing="5">THADOPZ</text>
+  <text x="96" y="213" fill="#1F1B16" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Build small.</text>
+  <text x="96" y="292" fill="#1F1B16" font-family="Georgia, 'Times New Roman', serif" font-size="72" font-weight="700">Reason clearly.</text>
+  <text x="100" y="340" fill="#5C5147" font-family="Arial, Helvetica, sans-serif" font-size="22">Software, AI tools, and systems that stay understandable.</text>
+  <rect x="96" y="74" width="96" height="8" fill="#C15F3C"/>
+  <rect x="956" y="90" width="116" height="116" stroke="#1F1B16" stroke-width="2"/>
+  <path d="M985 167L1015 116L1045 167H985Z" fill="#1F1B16"/>
+</svg>
