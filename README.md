@@ -42,13 +42,6 @@ This profile is a small index of what I am learning, building, and refining over
   <img alt="Tech icons" src="https://skillicons.dev/icons?i=git,github,js,ts,react,nodejs,python,go,docker,linux&theme=light" />
 </p>
 
-## GitHub Activity
-
-<p align="center">
-  <img height="165" alt="Thadopz GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Thadopz&show_icons=true&hide_border=true&title_color=111111&text_color=2F2A24&icon_color=C15F3C&bg_color=F8F3EA" />
-  <img height="165" alt="Thadopz top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thadopz&layout=compact&hide_border=true&title_color=111111&text_color=2F2A24&bg_color=F8F3EA" />
-</p>
-
 ## Contact
 
 <p>
